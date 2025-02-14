@@ -32,7 +32,15 @@ and equitable future for all.
 2.Python with MySQL Connectivity 
 3.Python with Tkinter/PyCharm(GUI) 
 
-DEMO 
+SCREENSHOTS OF THE PROJECT
 
 ![WhatsApp Image 2025-02-14 at 13 03 22_a6b8c78b](https://github.com/user-attachments/assets/dfb9290e-02fd-4147-8430-19023656ff83)
+
+
+![WhatsApp Image 2025-02-14 at 13 03 23_22c3b682](https://github.com/user-attachments/assets/fe88f89a-9fcc-40db-a7f7-1bbb856a683b)
+
+![WhatsApp Image 2025-02-14 at 13 03 23_011cf08d](https://github.com/user-attachments/assets/12ceeceb-06fd-4fb8-8101-6431e9fcd61e)
+
+![WhatsApp Image 2025-02-14 at 13 03 34_05d18622](https://github.com/user-attachments/assets/a37477d9-85dd-40f6-be65-40c25241f6ef)
+
 
