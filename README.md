@@ -31,3 +31,8 @@ and equitable future for all.
 1.MySQL 
 2.Python with MySQL Connectivity 
 3.Python with Tkinter/PyCharm(GUI) 
+
+DEMO 
+
+![WhatsApp Image 2025-02-14 at 13 03 22_a6b8c78b](https://github.com/user-attachments/assets/dfb9290e-02fd-4147-8430-19023656ff83)
+
